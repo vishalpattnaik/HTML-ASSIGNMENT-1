@@ -1,0 +1,70 @@
+body {
+    font-family: 'Viga', sans-serif;
+    color: black;
+
+}
+
+h1 {
+
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+
+    display: inline;
+    padding: 20px 20px 0 20px;
+}
+
+#nav {
+    float:right;
+    color: azure;
+    font-size: 1.5em;
+    background-color: lightgray;
+    width: 80%;
+}
+
+
+
+#hero {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    background-color: lightblue;
+    
+}
+
+.footer ul{
+    display: inline;
+    
+}
+
+.sub {
+    display: block;
+}
+
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+footer {
+    font-size: 1.2em;
+    text-align: center;
+    background-color: lightskyblue;
+}
+
+.first {
+
+    background-color: lightcoral;
+}
+
+.last {
+    background-color: lightgreen;
+}
+
+
